@@ -1,0 +1,4 @@
+#Wed Dec 26 11:32:07 ICT 2018
+base.0=C\:\\Users\\Antsoft\\Desktop\\android-advanced-master\\CustomFanControllerChallenge\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
